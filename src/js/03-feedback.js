@@ -36,4 +36,4 @@ const refs = {
          refs.message.value = savedMessage.message;
     }
    };
-       populateTextarea();
+populateTextarea();

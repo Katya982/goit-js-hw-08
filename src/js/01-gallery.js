@@ -21,13 +21,13 @@ function creatGallary(galleryItems) {
       </div> 
       `;
     })
-    .join('');
-
+  .join('');
 };
 
-   let gallery = new SimpleLightbox('.gallery a', {
+let gallery = new SimpleLightbox('.gallery a', {
     captionData: 'alt',
     captionType: 'attr',
 	  captionDelay: 250,
 });
-    gallery.on('show.simplelightbox');
+
+gallery.on('show.simplelightbox');

@@ -2,10 +2,10 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**",
-  "homepage": "https://katya982.github.io/goit-js-hw-08/",
+  "homepage": "https://katya982.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://katya982.github.io/goit-js-hw-08/"
+    "url": "https://katya982.github.io/goit-js-hw-08"
   },
   "dependencies": {
     "@vimeo/player": "^2.17.1",
